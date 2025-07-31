@@ -28,11 +28,11 @@ export default function Contact() {
         </div>
         <div className="follow">
           <h3>Follow Us</h3>
-          <img src="linkedin.png" rel="Linkedin"></img>
-          <img src="github.png" rel="GitHub"></img>
-          <img src="twitter.png" rel="Twitter"></img>
-          <img src="facebook.png" rel="Facebook"></img>
-          <img src="insta.png" rel="Instagram"></img>
+          <img src="/linkedin.png" rel="Linkedin"></img>
+          <img src="/github.png" rel="GitHub"></img>
+          <img src="/twitter.png" rel="Twitter"></img>
+          <img src="/facebook.png" rel="Facebook"></img>
+          <img src="/insta.png" rel="Instagram"></img>
         </div>
       </div>
       <h2 className="query">

@@ -4,7 +4,7 @@ import { NavLink, useNavigate } from 'react-router-dom'
     const navigate = useNavigate();
   return (
     <div className='navbar'>
-        <img src='logo.jpg' alt='Placify' onClick={() => {navigate('/')}}></img>
+        <img src='/logo.png' alt='Placify' onClick={() => {navigate('/')}}></img>
         <ul>
             <NavLink to='/'><li>Home</li></NavLink>
             <NavLink to='/jobs'><li>Jobs</li></NavLink>
